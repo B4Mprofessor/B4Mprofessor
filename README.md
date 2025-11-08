@@ -18,7 +18,7 @@
 - 📊 Currently diving deep into **Data Science, Machine Learning, and AI** — with hands-on projects like **Tesla Stock Price Prediction** using time-series forecasting.
 - 🐍 Proficient in **Python**, and actively using libraries like **Pandas, NumPy, Scikit-learn, TensorFlow, and Matplotlib**.
 - 📈 Passionate about **exploratory data analysis (EDA)**, model evaluation, and visual storytelling with data.
-- 🎓 **BSc in Electronics** — leveraging analytical thinking and problem-solving skills from engineering into data-driven solutions.
+- 🎓 **BSc in Electronics** and "Masters in Computer Application" — leveraging analytical thinking and problem-solving skills from engineering into data-driven solutions.
 - 📫 Reach me at: **abconnect.me@gmail.com**
 
 ---
