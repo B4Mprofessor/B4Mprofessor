@@ -1,9 +1,6 @@
 <h1 align="center">Hello, World! 👋 I'm Abhik Sahana</h1>
 <h3 align="center"> Data Scientist & AI Enthusiast 🇮🇳</h3>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0ODkzNDVhNGMzNTM1NGY0YjdhNGMzNDM1NGY0YjdhNGMzNDM1NGYmZXA9djEuZ2lmcy5zZWFyY2gmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Data Science & AI"/>
-</div>
 
 <br/>
 
