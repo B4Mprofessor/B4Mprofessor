@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! 👋 I'm Abhik Sahana</h1>
-<h3 align="center"> Data Scientist 🇮🇳</h3>
+<h3 align="center">Electronics Graduate | Aspiring Data Scientist & AI Enthusiast 🇮🇳</h3>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0ODkzNDVhNGMzNTM1NGY0YjdhNGMzNDM1NGY0YjdhNGMzNDM1NGYmZXA9djEuZ2lmcy5zZWFyY2gmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Data Science & AI"/>
@@ -7,33 +7,34 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=b4mprofessor&label=Profile%20views&color=0e75b6&style=flat" alt="b4mprofessor" />
-</p>
+<tool_call>
+{"name": "search_image", "arguments": {"prompt": "b4mprofessor"}}
+</tool_call>
 
 ---
 
 ### 🧠 About Me
 
-- 📊 Currently diving deep into **Data Science, Machine Learning, and AI** — with hands-on projects like **Tesla Stock Price Prediction** using time-series forecasting.
-- 🐍 Proficient in **Python**, and actively using libraries like **Pandas, NumPy, Scikit-learn, TensorFlow, and Matplotlib**.
-- 📈 Passionate about **exploratory data analysis (EDA)**, model evaluation, and visual storytelling with data.
-- 🎓 **BSc in Electronics** and **Masters in Computer Application** — leveraging analytical thinking and problem-solving skills from engineering into data-driven solutions.
+- 🔍 Passionate about **Artificial Intelligence, Deep Learning, and Data Science**, building models to solve real-world problems.
+- 🐍 Skilled in **Python** with hands-on experience in **TensorFlow, Keras, Scikit-learn, Pandas, NumPy, MLFlow, Deep Learning and Matplotlib**.
+- 🎓 **BSc in Electronics** and **Masters in Computer Application** — applying strong analytical and mathematical foundations to machine learning and data analysis.
+- 📊 Currently focused on **time-series forecasting, image classification, and audio signal processing**.
+- 💬 Open to collaborating on AI/ML projects or discussing new ideas in data science.
 - 📫 Reach me at: **abconnect.me@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack: Data & AI Focus
+### 🛠️ Tech Stack
 
 <div align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-  </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="45" height="45"/>
@@ -47,17 +48,30 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
   </a>
 </div>
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Major Projects
+
+#### 🩺 **Tuberculosis Detection Using Deep Learning**
+Built a CNN-based model using TensorFlow/Keras to classify chest X-rays for TB detection. Worked with medical imaging datasets, applied preprocessing, data augmentation, and achieved high validation accuracy.
+
+#### 📈 **Tesla Stock Price Prediction (LSTM & SimpleRNN)**
+Developed time-series forecasting models using LSTM and SimpleRNN networks. Performed EDA, scaled data with MinMaxScaler, trained models, and visualized predictions vs actual prices using Matplotlib.
+
+#### 🔊 **Human Voice Classification and Clustering**
+Classified voice samples by gender using MFCC features and ML models (SVM, Random Forest). Applied clustering (K-Means, DBSCAN) to discover natural groupings in voice data. End-to-end pipeline from feature extraction to deployment concepts.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=b4mprofessor&show_icons=true&theme=vue&hide_border=true" alt="stats" height="170" />
@@ -68,17 +82,10 @@
 
 ---
 
-### 📂 Featured Project
+### 🌐 Connect With Me
 
-**Tesla Stock Price Prediction**  
-Time-series forecasting using LSTM in TensorFlow, complete with EDA, MinMaxScaler preprocessing, and inverse-transformed visualizations.  
-👉 [View Notebook](https://github.com/B4Mprofessor/tesla-stock-price-prediction-rnn-lstm/blob/main/notebooks/tesla_stock_eda_and_modeling.ipynb)
+Check out my portfolio: [b4mprofessor.github.io/Abhik-Sahana](https://b4mprofessor.github.io/Abhik-Sahana/)  
+Email: **abconnect.me@gmail.com**  
+Open to research, collaboration, and internships in **AI, ML, and Data Science**.
 
----
-
-### 💬 Let's Connect
-
-I'm always open to discussions about **AI, data pipelines, model deployment**, or even **cybersecurity**!  
-📧 **abconnect.me@gmail.com**
-
-> “*In God we trust; all others must bring data.*” — W. Edwards Deming
+> “*Without data, you’re just another person with an opinion.*” — W. Edwards Deming
