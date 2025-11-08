@@ -72,7 +72,7 @@
 
 **Tesla Stock Price Prediction**  
 Time-series forecasting using LSTM in TensorFlow, complete with EDA, MinMaxScaler preprocessing, and inverse-transformed visualizations.  
-👉 [View Notebook](https://github.com/b4mprofessor/Abhik-Sahana/tree/main/notebooks/tesla_stock_eda_and_modeling.ipynb)
+👉 [View Notebook](https://github.com/B4Mprofessor/tesla-stock-price-prediction-rnn-lstm/blob/main/notebooks/tesla_stock_eda_and_modeling.ipynb)
 
 ---
 
